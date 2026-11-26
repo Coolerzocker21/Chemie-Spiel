@@ -1,5 +1,5 @@
 /* Reaktionslabor – Offline-Speicher. Bei einem Update die Versionsnummer erhöhen. */
-const V = "reaktionslabor-v1";
+const V = "reaktionslabor-v4";
 const CORE = ["./", "index.html", "manifest.webmanifest", "rubik.woff2", "inter.woff2",
   "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "favicon.svg", "favicon-32.png"];
 
